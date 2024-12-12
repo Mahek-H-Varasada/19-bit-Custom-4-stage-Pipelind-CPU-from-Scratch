@@ -1,10 +1,12 @@
 # Vicharak_CPU_Task
 Architecture 
-instruction_Fetch
+
 ![image](https://github.com/user-attachments/assets/c72a66ad-9c77-47cb-bdc7-d1561cbe3a60)
-Instruction_Decode
+
 ![image](https://github.com/user-attachments/assets/8c218956-bf34-4d6e-9a6e-71a1dcfa8915)
-Execute and Write Back Stage
+
+
+
 ![image](https://github.com/user-attachments/assets/66d2edbc-19c4-4675-bc40-62ba67c66a0c)
 
 Simulation_For ADD
