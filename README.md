@@ -1,4 +1,4 @@
-# Vicharak_CPU_Task
+# Custom 19 -Bit CPU 
 
 Architecture -1 :- instruction Fetch and Decode Stages
 
