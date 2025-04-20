@@ -8,7 +8,7 @@ Architecture -2 :- instruction execute and writeback Stages
 
 ![682077e5-8691-4bd9-b300-9c59c3375aff](https://github.com/user-attachments/assets/7db031a2-eade-4195-b75c-abedc21c8b2e)
 
-OPCODE, REGISTERS , ADDRESS ARRANGEMENT FOR 19 BITS
+Custom OPCODE Sturcture, REGISTERS , ADDRESS ARRANGEMENT FOR 19 BITS
 ![image](https://github.com/user-attachments/assets/f7a8d83b-c31a-4897-a562-ffd348ba17ad)
 
 
